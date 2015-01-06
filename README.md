@@ -4,6 +4,10 @@
 
 ## Introduction
 
+**NOTE:** This is a customisaed version of the newsletter module designed
+to remove the dependency on the CMS. If you still want the CMS
+dependency, please use the default module.
+
 ## Overview
 
 The module manages the creation and sending of newsletters

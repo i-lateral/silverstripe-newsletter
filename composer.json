@@ -17,8 +17,7 @@
 	{
 		"silverstripe/framework": "~3.1",
 		"silverstripe/messagequeue": "*",
-		"silverstripe/gridfieldajaxrefresh": "*",
-		"silverstripe/cms": "~3.1"
+		"silverstripe/gridfieldajaxrefresh": "*"
 	},
 	"autoload": {
 		"classmap": ["tests/behat/"]

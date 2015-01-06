@@ -11,7 +11,7 @@
  * This controller then determines the correct location for that hashcode and redirects
  * the user to the webpage
  */
-class TrackLinkController extends ContentController {
+class TrackLinkController extends Controller {
 
 	function init() {
 		parent::init();

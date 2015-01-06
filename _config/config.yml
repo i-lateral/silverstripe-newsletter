@@ -1,7 +1,7 @@
 SiteConfig:
   extensions:
     - NewsletterSiteConfig
-ContentController:
+Controller:
   extensions:
     - NewsletterContentControllerExtension
 Director:

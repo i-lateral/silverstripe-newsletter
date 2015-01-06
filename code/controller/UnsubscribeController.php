@@ -6,7 +6,7 @@
 /**
  * Create a form that a user can use to unsubscribe from a mailing list
  */
-class UnsubscribeController extends Page_Controller {
+class UnsubscribeController extends Controller {
 
 	static public $days_unsubscribe_link_alive = 30;
 
